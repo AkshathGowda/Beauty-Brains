@@ -1,0 +1,66 @@
+.App{
+    background-color: #f9f9f9;
+}
+.navbar{
+    background-color: white;
+    border-bottom: #d3d3d3 1px solid;
+}
+.navbar-icons{
+    font-size: 22px;
+}
+.navbar-icons i{
+    padding: 0 8px;
+}
+.custom-top-margin {
+    margin: 22px 0;
+}
+
+
+.custom-stories-section{
+
+}
+.custom-stories-section img{
+    width: 65px;
+    height: 65px;
+    margin: 0 8px;
+    border: 2px solid red;
+}
+.custom-stories-section span{
+    margin: 0 8px;
+}
+
+.custom-post-top{
+    border-bottom: 1px solid #d3d3d3;
+}
+.custom-post-top img{
+    width: 35px;
+    height: 35px;
+    margin: 8px;
+}
+
+
+.custom-user-caption {
+    padding: 8px 0;
+}
+.custom-user-caption img {
+    width: 25px;
+}
+.custom-user-caption span {
+    font-weight: bold;
+}
+.custom-user-caption p {
+    margin-bottom: 0;
+}
+.custom-comment {
+    display: flex;
+}
+.custom-comment span {
+    padding: 3px 3px 3px 9px;
+}
+
+.card-text{
+    margin-bottom: 0;
+}
+p {
+    margin-bottom: 0;
+}
